@@ -1,1 +1,1 @@
-# miner-addresses
+ZEC: t1UuuV1Vrar6szX73MhGiPLjvGin5FZmfU8
